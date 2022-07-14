@@ -1,2 +1,0 @@
-# manisprojects
-upload my websites
